@@ -2,6 +2,8 @@
 
 This is a static multi-page website created for a fictional digital media company called **ESCEND MEDIA**. The site was developed using only HTML, CSS, and JavaScript.
 
+**Live Demo**: [Visit ESCEND MEDIA](https://dilarayd.github.io/escend-media-website)
+
 ## Technologies Used
 
 - HTML5  
@@ -10,7 +12,7 @@ This is a static multi-page website created for a fictional digital media compan
 
 ## How to Run
 
-Simply open the `index.html` file in any modern web browser, or visit the deployed version online (link available on this repository).
+Simply open the `index.html` file in any modern web browser, or visit the live demo: [Live Demo](https://dilarayd.github.io/escend-media-website)
 
 ## Purpose
 
@@ -30,7 +32,7 @@ Bu proje, **ESCEND MEDIA** adında hayali bir dijital medya şirketi için oluş
 
 ## Nasıl Çalıştırılır?
 
-`index.html` dosyasını modern bir internet tarayıcısında açabilir veya bu repoda paylaşılan yayınlanmış (deployed) sürümü ziyaret edebilirsiniz.
+`index.html` dosyasını modern bir internet tarayıcısında açabilir veya canlı demoyu ziyaret edebilirsiniz: [Canlı Demo](https://dilarayd.github.io/escend-media-website)
 
 ## Proje Amacı
 
